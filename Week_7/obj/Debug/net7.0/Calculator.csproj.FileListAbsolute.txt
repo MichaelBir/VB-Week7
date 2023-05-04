@@ -1,0 +1,15 @@
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Projects/Week_7/Week_7/bin/Debug/net7.0/Calculator
+/Users/mihkelkask/Projects/Week_7/Week_7/bin/Debug/net7.0/Calculator.deps.json
+/Users/mihkelkask/Projects/Week_7/Week_7/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/mihkelkask/Projects/Week_7/Week_7/bin/Debug/net7.0/Calculator.dll
+/Users/mihkelkask/Projects/Week_7/Week_7/bin/Debug/net7.0/Calculator.pdb
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/Calculator.dll
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/refint/Calculator.dll
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/Calculator.pdb
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/mihkelkask/Projects/Week_7/Week_7/obj/Debug/net7.0/ref/Calculator.dll

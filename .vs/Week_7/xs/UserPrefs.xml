@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{BEEBB282-4EE6-409C-848C-9E437DD4C9BD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Arguments___226__parameters FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Program.cs">
+    <Files>
+      <File FileName="Week_7/Program.cs" />
+      <File FileName="Function/Program.cs" />
+      <File FileName="Arguments_&amp;_parameters/Program.cs" />
+      <File FileName="Test/Program.cs" Line="31" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week_7" expanded="True">
+            <Node name="Arguments_&amp;_parameters" expanded="True" />
+            <Node name="Calculator" expanded="True" />
+            <Node name="Function and return" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Function_220and_220return PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Function FirstBuild="True" />
+</Properties>
